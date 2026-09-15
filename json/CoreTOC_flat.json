@@ -2179327,6 +2179327,10 @@
   "vfx_ui_bp_s4_SwirlMesh",
   9
  ],
+ "1943097": [
+  "X1_Raid_Final_Boss_attk_basic_Stomp",
+  14
+ ],
  "1943098": [
   "raid_giveSymbol_neutral",
   6
@@ -2179342,6 +2179346,10 @@
  "1943103": [
   "Spawner_QST_Naha_FiveHills_02_Hollows_Swarmer",
   1
+ ],
+ "1943104": [
+  "X1_Raid_Final_Boss_attk_basic_Stomp_L",
+  14
  ],
  "1943108": [
   "campfire_v2_barb_berserking_buff_distortion_left",
@@ -2299146,6 +2299154,10 @@
  "2009761": [
   "x1_raid_boss_lower_body_fresnel_mat",
   57
+ ],
+ "2009762": [
+  "Akarat_Mote_Specs_Mega",
+  27
  ],
  "2009764": [
   "x1_raid_boss_upper_body_fresnel_mat",
@@ -2881123,6 +2881135,14 @@
   "portal_glo028_stor_embers",
   57
  ],
+ "2364723": [
+  "interactiveVFX_postProcess_burst_distortion_sphere",
+  57
+ ],
+ "2364724": [
+  "interactiveVFX_postProcess_burst_distortion_sphere",
+  27
+ ],
  "2364727": [
   "Ship_Skovos_FloorTrim_LongFlooring_A_04",
   57
@@ -2881158,6 +2881178,10 @@
  "2364748": [
   "Sightless_Skovos_Opal_Flat_Terrain_01",
   57
+ ],
+ "2364749": [
+  "interactiveVFX_PostProcess_burst_distortion_sphere",
+  14
  ],
  "2364751": [
   "fxKit_damaging_burstWarning_earth_volumeDust",
@@ -3092358,6 +3092382,10 @@
  "2462583": [
   "necro_bloodSurge_rope_upgradeC",
   57
+ ],
+ "2462585": [
+  "druM_stor241_tileableEnergy_Color",
+  44
  ],
  "2462586": [
   "mephisto_boss_humanProjectiles_hatred_trail2",
@@ -3387731,6 +3387759,14 @@
   "warM_crft44_GLV_campfireMask",
   44
  ],
+ "2602923": [
+  "Actor_S15_Opal_Boss",
+  42
+ ],
+ "2602924": [
+  "S15_Opal_Boss",
+  1
+ ],
  "2602925": [
   "QST_Skov_Voyagers_WagonDestroyed",
   1
@@ -3388971,6 +3389007,14 @@
   "2DInventory_Catalog_BattlePass_014_weapons",
   44
  ],
+ "2603552": [
+  "S15_Opal_Boss_Setup",
+  29
+ ],
+ "2603554": [
+  "S15_Opal_Boss_Intro",
+  29
+ ],
  "2603555": [
   "Ambient_Light_Blocker_NoShadow",
   57
@@ -3388978,6 +3389022,14 @@
  "2603556": [
   "twr_golem_bramble_lacuni_horror",
   8
+ ],
+ "2603558": [
+  "S15_Opal_Boss_Proj_Chair",
+  1
+ ],
+ "2603560": [
+  "S15_Secret_Boss_Throne",
+  1
  ],
  "2603561": [
   "barF_stor270_gold_liquidMetalGlobs_blobs",
@@ -3388990,6 +3389042,10 @@
  "2603563": [
   "barF_stor270_gold_liquidMetalGlobs",
   14
+ ],
+ "2603565": [
+  "S15_Opal_Boss",
+  8
  ],
  "2603574": [
   "knight_melee_guard_nav_idle_phased",
@@ -3389195,9 +3389251,21 @@
   "X2_Undercity_TuningEffect_Runes_Effect",
   135
  ],
+ "2603658": [
+  "S15_Secret_Boss_Intro_Actor",
+  1
+ ],
+ "2603659": [
+  "S15_Opal_Boss_Intro_Actor",
+  8
+ ],
  "2603660": [
   "X1_Undercity_LootEval_TuningEffect_Runes_Condition",
   51
+ ],
+ "2603661": [
+  "S15_Opal_Boss_FakeActorIntro",
+  6
  ],
  "2603664": [
   "ENV_VFX_steam_largeScalePlumes_supportSmoke_Large",
@@ -3406795,6 +3406863,86 @@
   "legendary_barb_058_x2",
   104
  ],
+ "2614313": [
+  "Harmony_Boss_Lower_MAT",
+  57
+ ],
+ "2614314": [
+  "Harmony_Boss_Upper_MAT",
+  57
+ ],
+ "2614315": [
+  "Harmony_Boss_WingL_MAT",
+  57
+ ],
+ "2614318": [
+  "HarmonyBoss_Wings_normal",
+  44
+ ],
+ "2614319": [
+  "HarmonyBoss_Upper_ao",
+  44
+ ],
+ "2614320": [
+  "HarmonyBoss_Wings_emissive",
+  44
+ ],
+ "2614321": [
+  "HarmonyBoss_Lower_rough",
+  44
+ ],
+ "2614322": [
+  "HarmonyBoss_Upper_rough",
+  44
+ ],
+ "2614324": [
+  "HarmonyBoss_Upper_color",
+  44
+ ],
+ "2614325": [
+  "HarmonyBoss_Upper_emissive",
+  44
+ ],
+ "2614326": [
+  "HarmonyBoss_Lower_normal",
+  44
+ ],
+ "2614327": [
+  "HarmonyBoss_Upper_metal",
+  44
+ ],
+ "2614328": [
+  "HarmonyBoss_Lower_color",
+  44
+ ],
+ "2614329": [
+  "HarmonyBoss_Wings_metal",
+  44
+ ],
+ "2614330": [
+  "HarmonyBoss_Lower_metal",
+  44
+ ],
+ "2614331": [
+  "HarmonyBoss_Upper_normal",
+  44
+ ],
+ "2614332": [
+  "HarmonyBoss_Wings_color",
+  44
+ ],
+ "2614333": [
+  "HarmonyBoss_Wings_rough",
+  44
+ ],
+ "2614334": [
+  "HarmonyBoss_Lower_ao",
+  44
+ ],
+ "2614335": [
+  "HarmonyBoss_Wings_ao",
+  44
+ ],
  "2614336": [
   "druM_stor248_TRS_cape_stable_sim",
   11
@@ -3408927,6 +3409075,10 @@
   "mnt_stor327_trophy_embers",
   57
  ],
+ "2616074": [
+  "HarmonyBoss_Upper_furMask",
+  44
+ ],
  "2616247": [
   "Pandem_GoldTrim_Center_4M_A_01",
   9
@@ -3409050,6 +3409202,38 @@
  "2616352": [
   "trophy_glo019_stor_killstreak_motes",
   57
+ ],
+ "2616386": [
+  "S14_Prop_Pandem_Kit_Rubble_Brick_AO",
+  44
+ ],
+ "2616387": [
+  "S14_Prop_Pandem_Kit_Rubble_Brick_Color",
+  44
+ ],
+ "2616388": [
+  "S14_Prop_Pandem_Kit_Rubble_Brick_Normal",
+  44
+ ],
+ "2616389": [
+  "S14_Prop_Pandem_Kit_Rubble_Brick_Rough",
+  44
+ ],
+ "2616390": [
+  "S14_Prop_Pandem_Kit_Rubble_Mound_AO",
+  44
+ ],
+ "2616391": [
+  "S14_Prop_Pandem_Kit_Rubble_Mound_Color",
+  44
+ ],
+ "2616392": [
+  "S14_Prop_Pandem_Kit_Rubble_Mound_Normal",
+  44
+ ],
+ "2616393": [
+  "S14_Prop_Pandem_Kit_Rubble_Mound_Rough",
+  44
  ],
  "2616395": [
   "barM_stor269_TRS_cape_climb_sim",
@@ -3418751,6 +3418935,10 @@
   "portal_glo041_stor_persistent_buildUp_glow",
   27
  ],
+ "2622893": [
+  "HarmonyBoss_Upper_irid",
+  44
+ ],
  "2622894": [
   "acolyte_chimera_boss_mount_LineWave",
   6
@@ -3419966,6 +3420154,10 @@
  "2623495": [
   "S14_rupture_CutBurst_RW",
   27
+ ],
+ "2623502": [
+  "Harmony_Boss_Upper_MAT_fur",
+  57
  ],
  "2623504": [
   "MarkerLocation_S14_ChapelDoor",
@@ -3421319,6 +3421511,10 @@
   "",
   42
  ],
+ "2624248": [
+  "Harmony_Boss_Wings_MAT_fur",
+  57
+ ],
  "2624257": [
   "S14_pandemoniumNonCorrupt_ColorGradient",
   44
@@ -3422226,6 +3422422,10 @@
  "2624848": [
   "",
   11
+ ],
+ "2624854": [
+  "HarmonyBoss_Wings_furMask",
+  44
  ],
  "2624855": [
   "",
@@ -3430803,6 +3431003,14 @@
   "Item_Is_2H_GTE800",
   51
  ],
+ "2631234": [
+  "S15_Opal_Boss_basic_beam_attk",
+  29
+ ],
+ "2631235": [
+  "S15_Opal_Boss_basic_beam_attk",
+  6
+ ],
  "2631254": [
   "Actor_S14_Demon_VileChild_Tainted",
   42
@@ -3430834,6 +3431042,14 @@
  "2631268": [
   "s14_leaderboard_halo_glow_SunBeam",
   57
+ ],
+ "2631269": [
+  "S15_Opal_Boss_basic_slam_attk",
+  6
+ ],
+ "2631271": [
+  "S15_Opal_Boss_basic_slam_attk",
+  29
  ],
  "2631274": [
   "s14_ReaperBoss_charge_KickupMain",
@@ -3430882,6 +3431098,58 @@
  "2631298": [
   "",
   32
+ ],
+ "2631300": [
+  "S15_Opal_Boss_Teleport",
+  29
+ ],
+ "2631301": [
+  "S15_Opal_Boss_Teleport",
+  6
+ ],
+ "2631305": [
+  "S15_Opal_Boss_Teleport",
+  14
+ ],
+ "2631342": [
+  "S15_Opal_Boss",
+  9
+ ],
+ "2631343": [
+  "Opal_Boss_mat_evade_teleportOut",
+  57
+ ],
+ "2631353": [
+  "S15_Opal_Boss_damaging_burstLine_earth",
+  14
+ ],
+ "2631354": [
+  "S15_Opal_Boss_damaging_burstLine_earth_rockLarge",
+  27
+ ],
+ "2631355": [
+  "S15_Opal_Boss_damaging_burstLine_earth_rockLarge_L",
+  27
+ ],
+ "2631359": [
+  "S15_Opal_Boss_ScreamingAdd_CE",
+  1
+ ],
+ "2631361": [
+  "MarkerLocation_S15_Opal_Boss_ScreamingAdd",
+  1
+ ],
+ "2631362": [
+  "S15_Opal_Boss_ScreamingAdd",
+  8
+ ],
+ "2631365": [
+  "S15_Opal_Boss_AirDunk_attk",
+  29
+ ],
+ "2631366": [
+  "S15_Opal_Boss_AirDunk_attk",
+  6
  ],
  "2631380": [
   "mnt_stor006_chimera",
@@ -3430946,6 +3431214,10 @@
  "2631466": [
   "Pandem_Edge_A_Metal_A_01_Wobble",
   57
+ ],
+ "2631467": [
+  "S15_Opal_Boss_AirDunk",
+  14
  ],
  "2631559": [
   "2DInventory_Items_Necromancer",
@@ -3431050,6 +3431322,102 @@
  "2631836": [
   "S14_Reaper_chargeTrapCombo",
   6
+ ],
+ "2631854": [
+  "S15_Opal_Boss_IntroLight",
+  14
+ ],
+ "2631855": [
+  "S15_Opal_Boss_CowDoor_attk",
+  6
+ ],
+ "2631856": [
+  "S15_Opal_Boss_PillarRain_attk",
+  6
+ ],
+ "2631857": [
+  "S15_Opal_Boss_SunOrb_attk",
+  6
+ ],
+ "2631858": [
+  "S15_Opal_Boss_Death",
+  6
+ ],
+ "2631860": [
+  "S15_Opal_Boss_StampedeDoor_attk",
+  29
+ ],
+ "2631862": [
+  "S15_Opal_Boss_PillarRain_attk",
+  29
+ ],
+ "2631864": [
+  "S15_Opal_Boss_Death",
+  29
+ ],
+ "2631866": [
+  "S15_Opal_Boss_SunOrb_attk",
+  29
+ ],
+ "2631868": [
+  "Actor_S15_Opal_Boss_Door",
+  42
+ ],
+ "2631869": [
+  "S15_Opal_Boss_Door",
+  1
+ ],
+ "2631872": [
+  "S15_Opal_Boss",
+  82
+ ],
+ "2631874": [
+  "S15_Opal_Boss_Stampede_Proj1",
+  1
+ ],
+ "2631876": [
+  "S15_Opal_Boss_Stampede_Actor1",
+  1
+ ],
+ "2631877": [
+  "S15_Opal_Boss_Stampede_Actor",
+  8
+ ],
+ "2631879": [
+  "S15_Opal_Boss_Stampede_Proj2",
+  1
+ ],
+ "2631881": [
+  "S15_Opal_Boss_Stampede_Proj3",
+  1
+ ],
+ "2631883": [
+  "S15_Opal_Boss_Stampede_Actor2",
+  1
+ ],
+ "2631885": [
+  "S15_Opal_Boss_Stampede_Actor3",
+  1
+ ],
+ "2631886": [
+  "S15_Opal_Boss_Zak_Door_Chain",
+  9
+ ],
+ "2631918": [
+  "S15_Opal_Boss_SunOrb_FX",
+  14
+ ],
+ "2631919": [
+  "S15_Opal_Boss_SunOrb_top_light",
+  23
+ ],
+ "2631920": [
+  "Actor_S15_Opal_Boss_DeathActor",
+  42
+ ],
+ "2631921": [
+  "S15_Opal_Boss_DeathActor",
+  1
  ],
  "2631926": [
   "rogM_stor273_TRS_pad_mount_sim",
@@ -3432643,6 +3433011,10 @@
   "S14_Reaper_boss_intro_light",
   23
  ],
+ "2633308": [
+  "S15_Opal_Boss_DoorActor",
+  8
+ ],
  "2633357": [
   "",
   1
@@ -3434211,9 +3434583,17 @@
   "S14_Prop_Crucible_Chamber_Totem_01_Dyn_Wings_DissolveIn",
   57
  ],
+ "2634662": [
+  "S15_Opal_Boss_Death",
+  14
+ ],
  "2634663": [
   "Pandem_Prop_Spirit_Trap_Dissolve_In",
   57
+ ],
+ "2634664": [
+  "S15_Opal_Boss_LightSplashes",
+  27
  ],
  "2634665": [
   "s14_leaderboard_halo_Level2",
@@ -3436259,6 +3436639,10 @@
   "s14_reaper_basicAttack_blurUp",
   27
  ],
+ "2636738": [
+  "S15_Opal_Boss_Spawn",
+  6
+ ],
  "2636743": [
   "S14_Rupture_SMP_GoblinRuptureTearMarker",
   1
@@ -3437747,6 +3438131,10 @@
   "Gravehound_Attk_Bite",
   6
  ],
+ "2637547": [
+  "S15_Opal_Boss_Stagger",
+  29
+ ],
  "2637554": [
   "Item_prestige_season14_rankE",
   42
@@ -3438087,6 +3438475,10 @@
   "PIT_MegaAmbush_MarkerLoc",
   1
  ],
+ "2637718": [
+  "S15_Opal_Boss_reac_stagger_seizedUp",
+  6
+ ],
  "2637719": [
   "s15_leaderboardHalo_Level1_OuterRing_Alpha",
   44
@@ -3438407,6 +3438799,18 @@
   "mnt_uniq46_trophy_cloth_gradient_Mask",
   44
  ],
+ "2638300": [
+  "s15_opal_passiveHalo",
+  14
+ ],
+ "2638302": [
+  "s15_opal_passiveHalo_core",
+  27
+ ],
+ "2638305": [
+  "s15_opal_passiveHalo_core",
+  57
+ ],
  "2638310": [
   "sor_stor271_HLM_wispGlimmer",
   27
@@ -3438418,6 +3438822,14 @@
  "2638343": [
   "sorM_stor271_GLV",
   14
+ ],
+ "2638346": [
+  "s15_opal_passiveHalo_streaks",
+  57
+ ],
+ "2638347": [
+  "s15_opal_passiveHalo_streaks",
+  27
  ],
  "2638348": [
   "S14_QST_Main_03_010",
@@ -3438527,6 +3438939,10 @@
   "S14_Rupture_EntropySound",
   14
  ],
+ "2638430": [
+  "S15_Opal_Boss_Screaming",
+  6
+ ],
  "2638431": [
   "S14_Prop_Reliquary_Currency_01",
   9
@@ -3438594,6 +3439010,58 @@
  "2638481": [
   "S14_reaper_boss_intro_attach_prop_weapons",
   14
+ ],
+ "2638485": [
+  "S15_Opal_Boss_PlayerPowerSeal",
+  29
+ ],
+ "2638486": [
+  "Power_S15_Opal_Boss_OverrideSkill",
+  42
+ ],
+ "2638487": [
+  "S15_Opal_Boss_OverrideSkill",
+  29
+ ],
+ "2638488": [
+  "Power_S15_Opal_Boss_OverrideSkill_1",
+  42
+ ],
+ "2638489": [
+  "S15_Opal_Boss_OverrideSkill_1",
+  29
+ ],
+ "2638490": [
+  "Power_S15_Opal_Boss_OverrideSkill_2",
+  42
+ ],
+ "2638491": [
+  "S15_Opal_Boss_OverrideSkill_2",
+  29
+ ],
+ "2638492": [
+  "Power_S15_Opal_Boss_OverrideSkill_3",
+  42
+ ],
+ "2638493": [
+  "S15_Opal_Boss_OverrideSkill_3",
+  29
+ ],
+ "2638494": [
+  "Power_S15_Opal_Boss_OverrideSkill_4",
+  42
+ ],
+ "2638495": [
+  "S15_Opal_Boss_OverrideSkill_4",
+  29
+ ],
+ "2638496": [
+  "Power_S15_Opal_Boss_OverrideSkill_5",
+  42
+ ],
+ "2638497": [
+  "S15_Opal_Boss_OverrideSkill_5",
+  29
  ],
  "2638505": [
   "S14_Prop_Reliquary_Currency_01_Body_Base_AO",
@@ -3439874,6 +3440342,10 @@
  "2639065": [
   "s14_reaper_boss_intro_blade_blur",
   27
+ ],
+ "2639076": [
+  "S15_Opal_Boss_pillarSafeZone",
+  14
  ],
  "2639089": [
   "s14_reaper_boss_intro_blade_beams",
@@ -3441923,9 +3442395,33 @@
   "S14_Pandem_Prop_Thematic_Any_1x1_01_Fire_Lit_Arrangement",
   1
  ],
+ "2641452": [
+  "s15_opal_stomp_area",
+  14
+ ],
+ "2641453": [
+  "s15_opal_stomp_area_edgeNS",
+  27
+ ],
+ "2641454": [
+  "s15_opal_stomp_area_edge",
+  57
+ ],
  "2641456": [
   "S14_Pandem_Prop_AmbientLight_Large",
   23
+ ],
+ "2641457": [
+  "s15_opal_stomp_area_edgeEW",
+  27
+ ],
+ "2641458": [
+  "s15_opal_stomp_area_fill",
+  27
+ ],
+ "2641459": [
+  "s15_opal_stomp_area_fill",
+  57
  ],
  "2641468": [
   "S14_Rupture_Tear_SpawningPower",
@@ -3443263,6 +3443759,18 @@
   "WorldTier_IsWorldTier_Torment_9",
   51
  ],
+ "2642735": [
+  "S15_Opal_Boss_LEG_frontLoin_sim",
+  11
+ ],
+ "2642737": [
+  "S15_Opal_Boss_TRS_cape_sim",
+  11
+ ],
+ "2642739": [
+  "S15_Opal_Boss_LEG_straps_sim",
+  11
+ ],
  "2642740": [
   "mnt_stor033_cat_vfx_fire_hq_override_sim",
   11
@@ -3443727,6 +3444235,10 @@
   "Bundle_Battlepass_014_completion_gloves_pal_188_stor",
   110
  ],
+ "2642970": [
+  "Opal_Boss_mat_evade_teleportIn",
+  57
+ ],
  "2642971": [
   "StoreProduct_Bundle_Battlepass_014_completion_gloves_rog_272_stor",
   42
@@ -3444042,6 +3444554,14 @@
  "2643126": [
   "s14_reaperboss_sword_sphereMesh",
   27
+ ],
+ "2643153": [
+  "s15_opal_beamAttack_warning",
+  14
+ ],
+ "2643157": [
+  "S15_Opal_Boss_Pillar_Rain_Impact",
+  14
  ],
  "2643161": [
   "SoundGroup_S14_Boss_Reaper_Multistrice_End",
@@ -3445019,6 +3445539,10 @@
   "MusicOnly_ts_TriuneTemple",
   93
  ],
+ "2643995": [
+  "s15_opal_beamAttack_warning_pillar",
+  27
+ ],
  "2644007": [
   "S14_Prop_Crucible_Chamber_Totem_SFX",
   14
@@ -3445138,6 +3445662,10 @@
  "2644111": [
   "suffix_daredevil",
   120
+ ],
+ "2644127": [
+  "S15_Opal_Boss_TRS_ribbons_sim",
+  11
  ],
  "2644134": [
   "AddOn_CollectionPack_Druid07",
@@ -3445275,6 +3445803,10 @@
   "Zak_Palace_MetalTrim_A_Gold_NoPatina",
   57
  ],
+ "2644316": [
+  "weather_S15_Opal_Boss_SunOrb_attack",
+  47
+ ],
  "2644331": [
   "Zak_Palace_Railing_A_Gold",
   57
@@ -3445295,6 +3445827,30 @@
   "Play_Rupture_Gizmo_Riser",
   40
  ],
+ "2644393": [
+  "s15_opal_teleport_fadeOut",
+  14
+ ],
+ "2644398": [
+  "s15_opal_teleport_flakes",
+  27
+ ],
+ "2644401": [
+  "s15_opal_teleport_fadeOut_halo",
+  57
+ ],
+ "2644402": [
+  "s15_opal_teleport_fadeOut_halo",
+  27
+ ],
+ "2644403": [
+  "s15_opal_teleport_fadeOut_corruption",
+  57
+ ],
+ "2644404": [
+  "s15_opal_teleport_fadeOut_corruption",
+  27
+ ],
  "2644405": [
   "Play_Rupture_Gizmo_Interact_MediaShared",
   71
@@ -3445303,9 +3445859,53 @@
   "Play_Rupture_Gizmo_Interact",
   40
  ],
+ "2644408": [
+  "s15_opal_teleport_dist_ripple",
+  27
+ ],
+ "2644410": [
+  "s15_opal_teleport_fadeIn",
+  14
+ ],
+ "2644429": [
+  "s15_opal_airDunk_orb_burst_light",
+  23
+ ],
+ "2644430": [
+  "s15_opal_airDunk_orb_burst",
+  14
+ ],
+ "2644460": [
+  "s15_opal_teleport_flakesArrival",
+  27
+ ],
  "2644464": [
   "S12_barb_challengingShout_cast_NoYell",
   14
+ ],
+ "2644468": [
+  "S15_Prop_Opal_Boss_SwordPillar_Dyn",
+  9
+ ],
+ "2644469": [
+  "S15_Prop_Opal_Boss_SwordPillar_Dyn_Neutral",
+  6
+ ],
+ "2644470": [
+  "S15_Prop_Opal_Boss_SwordPillar_Dyn_Death",
+  6
+ ],
+ "2644471": [
+  "S15_Prop_Opal_Boss_SwordPillar_Dyn",
+  1
+ ],
+ "2644473": [
+  "S15_Prop_Opal_Boss_SwordPillar_Dyn",
+  8
+ ],
+ "2644483": [
+  "S15_Prop_Opal_Boss_SwordPillar_Dissolve_Dyn",
+  57
  ],
  "2645715": [
   "2DUI_Bundle_HArmor_bar_stor194_WebImage",
@@ -3445326,6 +3445926,18 @@
  "2645719": [
   "Play_UI_Wardrobe_Place_Flail",
   40
+ ],
+ "2645742": [
+  "vfx_S15_Opal_Boss_SunOrb_Vingette",
+  14
+ ],
+ "2645743": [
+  "S15_Opal_Boss_SunOrb_FX_fullScreen",
+  27
+ ],
+ "2645744": [
+  "S15_Opal_Boss_SunOrb_FX_vingette_fullScreen",
+  57
  ],
  "2645818": [
   "S14_QST_01_Scroll",
@@ -3445350,6 +3445962,26 @@
  "2645873": [
   "WarPlans_Spawner_ChoronsShortcut_Shrine",
   1
+ ],
+ "2645938": [
+  "s15_opal_airDunk_anticipationGlow",
+  23
+ ],
+ "2645939": [
+  "s15_opal_airDunk_teleportFadeIn",
+  14
+ ],
+ "2645947": [
+  "s15_opal_teleport_anticipationFlakes",
+  27
+ ],
+ "2645949": [
+  "s15_opal_airDunk_pillar",
+  27
+ ],
+ "2645950": [
+  "s15_opal_airDunk_pillar",
+  57
  ],
  "2645951": [
   "S14_pandemonium_rupture_No_Portal_Loop",
@@ -3445402,6 +3446034,14 @@
  "2645989": [
   "S14_cultist_summoner_RW",
   1
+ ],
+ "2645990": [
+  "s15_opal_airDunk_wave",
+  14
+ ],
+ "2645992": [
+  "s15_opal_airDunk_waveDark",
+  27
  ],
  "2646017": [
   "Skov_Lycander (QST_Skov_Lycander_BlockerToXanderos)",
@@ -3445559,6 +3446199,10 @@
   "Pants_Random_Mythic_UI",
   73
  ],
+ "2646163": [
+  "weather_S15_Opal_Boss_Sun",
+  47
+ ],
  "2646190": [
   "mnt_uniq46_trophy",
   9
@@ -3445651,6 +3446295,14 @@
   "S14_Rupture_SMP_NMD_GrowShrink_Power",
   29
  ],
+ "2646251": [
+  "s15_opal_boss",
+  175
+ ],
+ "2646252": [
+  "s15_opal_boss_ColorGradient",
+  44
+ ],
  "2646256": [
   "Play_S14_Realmwalker_SummonShake_Media",
   71
@@ -3445666,6 +3446318,18 @@
  "2646264": [
   "Skov_Celestia (QST_Skov_CosmicArchives_SkartaraBlockers)",
   24
+ ],
+ "2646267": [
+  "s15_opal_teleport_gather",
+  27
+ ],
+ "2646268": [
+  "s15_opal_teleport_gather",
+  57
+ ],
+ "2646269": [
+  "s15_opal_teleportAnim",
+  14
  ],
  "2646270": [
   "Item_S14_1HSword_Unique_Generic_001",
@@ -3445875,6 +3446539,10 @@
   "S14_X2_Helm_Unique_Generic_100",
   104
  ],
+ "2646322": [
+  "s15_opal_teleport_arrivalStreaks",
+  27
+ ],
  "2646323": [
   "prefix_undying",
   120
@@ -3445907,6 +3446575,18 @@
   "PlayerTitle_suffix_prophecy",
   42
  ],
+ "2646332": [
+  "s15_opal_teleport_fadeOutWalk",
+  14
+ ],
+ "2646333": [
+  "s15_opal_teleportWalk_gather",
+  27
+ ],
+ "2646501": [
+  "s15_opal_stampede_doorFadeIn",
+  57
+ ],
  "2646502": [
   "DungeonAffix_S14_Major_Ruptures_v2",
   42
@@ -3445922,6 +3446602,10 @@
  "2646505": [
   "S14_DungeonAffix_Major_Ruptures_v2",
   31
+ ],
+ "2646506": [
+  "s15_opal_stampede_chain",
+  57
  ],
  "2646510": [
   "S14_Rupture_SMP_NMD_Event_Markerset",
@@ -3446030,6 +3446714,10 @@
  "2647019": [
   "LTE_MotG_Connect_RepTracking",
   31
+ ],
+ "2647039": [
+  "s15_opal_stampede_projectile",
+  14
  ],
  "2647040": [
   "Play_S14_Boss_ReaperSeraziel_VOX_Death_Media",
@@ -3446419,6 +3447107,26 @@
   "S14_Rupture_SMP_Wave_Proxy",
   1
  ],
+ "2647386": [
+  "S15_Prop_Opal_Boss_SwordPillar_AO",
+  44
+ ],
+ "2647387": [
+  "S15_Prop_Opal_Boss_SwordPillar_Color",
+  44
+ ],
+ "2647388": [
+  "S15_Prop_Opal_Boss_SwordPillar_Metal",
+  44
+ ],
+ "2647389": [
+  "S15_Prop_Opal_Boss_SwordPillar_Normal",
+  44
+ ],
+ "2647390": [
+  "S15_Prop_Opal_Boss_SwordPillar_Rough",
+  44
+ ],
  "2647401": [
   "UI_Inventory_Item_Pickup_3_1_X",
   71
@@ -3446510,6 +3447218,26 @@
  "2647715": [
   "2DUI_Bundle_AddOn_CollectionPack_OW_webImage",
   44
+ ],
+ "2647796": [
+  "s15_opal_stampede_darkSpecks",
+  57
+ ],
+ "2647797": [
+  "s15_opal_stampede_darkSpecks",
+  27
+ ],
+ "2647804": [
+  "s15_opal_stampede_projectile",
+  23
+ ],
+ "2647805": [
+  "s15_opal_stampede_projectile_glow",
+  57
+ ],
+ "2647806": [
+  "s15_opal_stampede_projectile_glow",
+  27
  ],
  "2647807": [
   "Item_halo_season15_rankA",
@@ -3446671,9 +3447399,49 @@
   "halo_season18_rankE",
   73
  ],
+ "2647873": [
+  "s15_opal_stampede_projectile_smoke",
+  57
+ ],
+ "2647874": [
+  "s15_opal_stampede_projectile_smoke",
+  27
+ ],
+ "2647876": [
+  "s15_opal_stampede_projectile_introSpecks",
+  27
+ ],
+ "2647882": [
+  "s15_opal_stampede_projectile_spawnWave",
+  57
+ ],
+ "2647883": [
+  "s15_opal_stampede_projectile_spawnWave",
+  27
+ ],
+ "2647884": [
+  "s15_opal_stampede_projectile_spawnEject",
+  57
+ ],
+ "2647885": [
+  "s15_opal_stampede_projectile_spawnEject",
+  27
+ ],
+ "2647886": [
+  "s15_opal_stampede_projectile_spawnDark",
+  57
+ ],
+ "2647887": [
+  "s15_opal_stampede_projectile_spawnDark",
+  27
+ ],
  "2647913": [
   "warM_gnrc127_HLM_clothhelm_sim",
   11
+ ],
+ "2647914": [
+  "S15_Prop_Opal_Boss_SwordPillar_Dyn",
+  57
  ],
  "2647917": [
   "AddOn_BlizzCon_26_Bundle",
@@ -3446743,45 +3447511,21 @@
   "",
   42
  ],
- "2648087": [
-  "",
-  44
- ],
- "2648088": [
-  "",
-  44
- ],
- "2648089": [
-  "",
-  44
- ],
- "2648090": [
-  "",
-  44
- ],
- "2648091": [
-  "",
-  44
- ],
- "2648092": [
-  "",
-  44
- ],
- "2648093": [
-  "",
-  57
- ],
  "2648094": [
-  "",
+  "mnt_stor364_trophy",
   9
  ],
  "2648096": [
-  "",
+  "mnt_stor364_trophy",
   1
  ],
  "2648097": [
-  "",
+  "mnt_stor364_trophy",
   73
+ ],
+ "2648098": [
+  "Item_mnt_stor364_trophy",
+  42
  ],
  "2648099": [
   "",
@@ -3446859,13 +3447603,77 @@
   "SoundGroup_S14_Gravehound_backpedal",
   14
  ],
+ "2648141": [
+  "s15_opal_stampede_proj2",
+  9
+ ],
+ "2648142": [
+  "s15_opal_stampede_proj2",
+  57
+ ],
+ "2648145": [
+  "s15_opal_stampede_proj1",
+  9
+ ],
+ "2648146": [
+  "s15_opal_stampede_proj1",
+  57
+ ],
+ "2648147": [
+  "s15_opal_stampede_proj3",
+  9
+ ],
+ "2648148": [
+  "s15_opal_stampede_proj3",
+  57
+ ],
  "2648152": [
   "Sorcerer_Teleport_Passive",
   29
  ],
+ "2648159": [
+  "S15_Prop_Opal_Boss_SwordPillar_Impact_Debris_Vat",
+  57
+ ],
+ "2648161": [
+  "S15_Prop_Opal_Boss_SwordPillar_Impact_Vat",
+  9
+ ],
+ "2648163": [
+  "S15_Prop_Opal_Boss_SwordPillar_Impact_Vat",
+  1
+ ],
+ "2648165": [
+  "vat_S15_Prop_Opal_Boss_SwordPillar_Impact_Vat_rot",
+  44
+ ],
+ "2648166": [
+  "vat_S15_Prop_Opal_Boss_SwordPillar_Impact_Vat_pos",
+  44
+ ],
  "2648168": [
   "Item_Quality_Is_Mythic",
   51
+ ],
+ "2648305": [
+  "S15_Prop_Opal_Boss_SwordPillar_Dyn_Neutral",
+  14
+ ],
+ "2648309": [
+  "S15_Prop_Opal_Boss_SwordPillar_Mound_Dyn",
+  57
+ ],
+ "2648316": [
+  "s15_opal_stampede_portalBack",
+  27
+ ],
+ "2648317": [
+  "s15_opal_stampede_portalBack",
+  57
+ ],
+ "2648318": [
+  "s15_opal_stampede_portalBack",
+  14
  ],
  "2648320": [
   "S14_Prop_Pandem_Chest_Rare_Dyn",
@@ -3446895,6 +3447703,34 @@
   "S14_Prop_Pandem_Chest_Rare_Dyn_Neutral",
   14
  ],
+ "2648688": [
+  "s15_opal_sunOrb_targetHit",
+  14
+ ],
+ "2648691": [
+  "s15_opal_sunOrb_hit_glow",
+  57
+ ],
+ "2648692": [
+  "s15_opal_sunOrb_hit_glow",
+  27
+ ],
+ "2648702": [
+  "s15_opal_sunOrb_hit_specks",
+  57
+ ],
+ "2648703": [
+  "s15_opal_sunOrb_hit_smallSpecks",
+  27
+ ],
+ "2648704": [
+  "s15_opal_sunOrb_hit_darkSpecks",
+  57
+ ],
+ "2648705": [
+  "s15_opal_sunOrb_hit_darkSpecks",
+  27
+ ],
  "2648719": [
   "Reputation_S13_LTE_MOTG_Reputation",
   42
@@ -3446902,6 +3447738,14 @@
  "2648720": [
   "S13_LTE_MOTG_Reputation",
   105
+ ],
+ "2648732": [
+  "s15_opal_sunOrb_hit_streaks",
+  57
+ ],
+ "2648733": [
+  "s15_opal_sunOrb_hit_streaks",
+  27
  ],
  "2648748": [
   "Recipe_S14_Recipe_Refine_MythicMaterial",
@@ -3446911,17 +3447755,41 @@
   "S14_Recipe_Refine_MythicMaterial",
   49
  ],
+ "2648751": [
+  "s15_opal_sunOrb_hit_persistentGlow",
+  27
+ ],
+ "2648752": [
+  "s15_opal_sunOrb_hit_persistentGlow",
+  57
+ ],
  "2648941": [
   "2DUI_S14_Reliquary_Tutorial",
   44
+ ],
+ "2648976": [
+  "S15_Prop_Opal_Boss_SwordPillar_Mound_Dissolve_Dyn",
+  57
  ],
  "2648977": [
   "2DUI_gizmo_constellation",
   44
  ],
+ "2649016": [
+  "s15_opal_stampede_projectile_darkSmoke",
+  57
+ ],
+ "2649017": [
+  "s15_opal_stampede_projectile_darkSmoke",
+  27
+ ],
  "2649022": [
   "vfx_ui_material_Soul_Shards_Gem_Glow_Red",
   57
+ ],
+ "2649024": [
+  "s15_opal_stampede_projectile_specks",
+  27
  ],
  "2649059": [
   "Recipe_X2_HoradricCube_ChangeAffix_Random_To_Random_Unique",
@@ -3446946,6 +3447814,34 @@
  "2649064": [
   "X2_HoradricCube_ChangeAffix_Offensive_To_Offensive_Unique",
   49
+ ],
+ "2649105": [
+  "S15_Opal_Boss_SunOrb_top_lightEnv",
+  23
+ ],
+ "2649106": [
+  "S15_Opal_Boss_SunOrb_top_lightPlayers",
+  23
+ ],
+ "2649107": [
+  "S15_Prop_Opal_Boss_SwordPillar_Client_Attach",
+  9
+ ],
+ "2649109": [
+  "S15_Prop_Opal_Boss_SwordPillar_Client_Attach_Neutral",
+  6
+ ],
+ "2649110": [
+  "S15_Prop_Opal_Boss_SwordPillar_Client_Attach",
+  1
+ ],
+ "2649112": [
+  "S15_Prop_Opal_Boss_SwordPillar_Client_Attach",
+  8
+ ],
+ "2649118": [
+  "S15_Prop_Opal_Boss_SwordPillar_Dyn_Death",
+  14
  ],
  "2649131": [
   "2DInventory_Season15_Items",
@@ -3447099,6 +3447995,14 @@
   "npc_amazon_cape_stable_sim",
   11
  ],
+ "2649209": [
+  "S15_Opal",
+  71
+ ],
+ "2649417": [
+  "S15_Prop_Opal_Boss_SwordPillar_Debris_Dyn",
+  57
+ ],
  "2649648": [
   "TaintedOrb_pickup",
   29
@@ -3447113,6 +3448017,18 @@
  ],
  "2649960": [
   "2DUI_Aspect_S14_Aspects",
+  44
+ ],
+ "2649983": [
+  "s15_opal_stampede_projectile3_Emissive",
+  44
+ ],
+ "2649984": [
+  "s15_opal_stampede_projectile2_Emissive",
+  44
+ ],
+ "2649985": [
+  "s15_opal_stampede_projectile1_Emissive",
   44
  ],
  "2650021": [
@@ -3447131,9 +3448047,25 @@
   "Scos_Pale_Knight_Eldhaime_01",
   1
  ],
+ "2650069": [
+  "S15_Prop_Opal_Boss_SwordPillar_Impact_Decal",
+  57
+ ],
+ "2650079": [
+  "S15_Opal_stampede_proj2",
+  44
+ ],
+ "2650095": [
+  "s15_opal_stampede_doorLight",
+  23
+ ],
  "2650096": [
   "S14_DGN_RuptureChamber_EntrancePortal",
   24
+ ],
+ "2650097": [
+  "S15_Prop_Opal_Boss_SwordPillar_Impact_Decal",
+  27
  ],
  "2650100": [
   "vfx_ui_material_mythic_overlay_btn",
@@ -3447142,6 +3448074,42 @@
  "2650102": [
   "vfx_ui_Mythic_Holy_btn_Mask",
   44
+ ],
+ "2650105": [
+  "s15_opal_stampede_buff_caprichoso_Mask",
+  44
+ ],
+ "2650106": [
+  "s15_opal_stampede_buff_garantido_Mask",
+  44
+ ],
+ "2650107": [
+  "s15_opal_stampede_buff_DissolveMask",
+  44
+ ],
+ "2650108": [
+  "s15_opal_stampede_buff_head",
+  9
+ ],
+ "2650109": [
+  "s15_opal_stampede_buff_cowhead_g",
+  57
+ ],
+ "2650110": [
+  "s15_opal_stampede_buff_head",
+  1
+ ],
+ "2650112": [
+  "s15_opal_stampede_buff",
+  14
+ ],
+ "2650113": [
+  "s15_opal_stampede_buffHead",
+  27
+ ],
+ "2650114": [
+  "s15_opal_stampede_buff_cowhead_c",
+  57
  ],
  "2650126": [
   "2DUI_S14_Tutorials",
@@ -3447431,6 +3448399,38 @@
   "StoreProduct_Bundle_BPMount_S1_horse_stor012",
   42
  ],
+ "2650807": [
+  "S15_Prop_Opal_Boss_SwordPillar_Impact_Strong_Vat",
+  9
+ ],
+ "2650808": [
+  "S15_Prop_Opal_Boss_SwordPillar_Impact_Strong_Vat",
+  1
+ ],
+ "2650810": [
+  "vat_S15_Prop_Opal_Boss_SwordPillar_Impact_Strong_Vat_rot",
+  44
+ ],
+ "2650811": [
+  "vat_S15_Prop_Opal_Boss_SwordPillar_Impact_Strong_Vat_pos",
+  44
+ ],
+ "2650812": [
+  "S15_Prop_Opal_Boss_SwordPillar_Impact_Strong_Debris_Vat",
+  57
+ ],
+ "2650814": [
+  "S15_Opal_nav_run",
+  6
+ ],
+ "2650815": [
+  "S15_Opal_nav_run_L",
+  6
+ ],
+ "2650816": [
+  "S15_Opal_nav_run_R",
+  6
+ ],
  "2650823": [
   "Season_Active_Season15_Not_PTR",
   51
@@ -3447462,6 +3448462,22 @@
  "2650993": [
   "S14_dmgRemap_pandemonium_Exarch_ColorGradient",
   44
+ ],
+ "2651037": [
+  "s15_opal_stampede_projectile_fadeout",
+  14
+ ],
+ "2651044": [
+  "s15_opal_stampede_fade_smoke",
+  27
+ ],
+ "2651045": [
+  "s15_opal_stampede_fade_smoke",
+  57
+ ],
+ "2651046": [
+  "s15_opal_stampede_fade_specks",
+  27
  ],
  "2651097": [
   "S14_Rupture_ZE_InitialRopeFXPower",
@@ -3447551,6 +3448567,114 @@
   "S14_Rupture_ZE_Rope_Proxy",
   1
  ],
+ "2651297": [
+  "VOX_Mon_Opal_Boss",
+  79
+ ],
+ "2651302": [
+  "S15_Mon_Opal_nav_idle",
+  14
+ ],
+ "2651303": [
+  "S15_Mon_Opal_nav_idle_L",
+  14
+ ],
+ "2651304": [
+  "S15_Mon_Opal_nav_idle_R",
+  14
+ ],
+ "2651305": [
+  "S15_Mon_Opal_nav_idle_perm_laugh",
+  14
+ ],
+ "2651306": [
+  "S15_Mon_Opal_nav_idle",
+  6
+ ],
+ "2651309": [
+  "S15_Mon_Opal_nav_turn",
+  6
+ ],
+ "2651310": [
+  "S15_Mon_Opal_nav_turn",
+  14
+ ],
+ "2651311": [
+  "S15_Mon_Opal_nav_turn_L",
+  14
+ ],
+ "2651312": [
+  "S15_Mon_Opal_nav_turn_R",
+  14
+ ],
+ "2651313": [
+  "S15_Mon_Opal_nav_turn_L",
+  6
+ ],
+ "2651314": [
+  "S15_Mon_Opal_nav_turn_R",
+  6
+ ],
+ "2651317": [
+  "S15_Mon_Opal_nav_Walk",
+  14
+ ],
+ "2651318": [
+  "S15_Mon_Opal_nav_walk_L",
+  14
+ ],
+ "2651319": [
+  "S15_Mon_Opal_nav_walk_R",
+  14
+ ],
+ "2651321": [
+  "s15_opal_stampede_impact",
+  14
+ ],
+ "2651323": [
+  "s15_opal_stampede_impact_smoke",
+  27
+ ],
+ "2651324": [
+  "s15_opal_stampede_impact_specks",
+  27
+ ],
+ "2651325": [
+  "S15_Mon_Opal_nav_walk",
+  6
+ ],
+ "2651326": [
+  "S15_Mon_Opal_nav_walk_L",
+  6
+ ],
+ "2651327": [
+  "S15_Mon_Opal_nav_walk_R",
+  6
+ ],
+ "2651329": [
+  "S15_Mon_Opal_nav_strafe_L",
+  6
+ ],
+ "2651330": [
+  "S15_Mon_Opal_nav_strafe_R",
+  6
+ ],
+ "2651332": [
+  "S15_Mon_Opal_nav_strafe_L",
+  14
+ ],
+ "2651333": [
+  "S15_Mon_Opal_nav_strafe_R",
+  14
+ ],
+ "2651334": [
+  "s15_opal_stampede_impact_smoke",
+  57
+ ],
+ "2651343": [
+  "s15_opal_stampede_impact_smokeGold",
+  27
+ ],
  "2651346": [
   "",
   110
@@ -3447558,6 +3448682,74 @@
  "2651347": [
   "",
   42
+ ],
+ "2651391": [
+  "mnt_stor364_TPY_mat",
+  57
+ ],
+ "2651392": [
+  "mnt_stor364_TPY_mat_fur",
+  57
+ ],
+ "2651393": [
+  "mnt_stor364_TPY_furMask",
+  44
+ ],
+ "2651394": [
+  "mnt_stor364_TPY_ao",
+  44
+ ],
+ "2651395": [
+  "mnt_stor364_TPY_color",
+  44
+ ],
+ "2651396": [
+  "mnt_stor364_TPY_metal",
+  44
+ ],
+ "2651397": [
+  "mnt_stor364_TPY_normal",
+  44
+ ],
+ "2651398": [
+  "mnt_stor364_TPY_rough",
+  44
+ ],
+ "2651532": [
+  "s15_opal_sunOrb_buildup",
+  23
+ ],
+ "2651571": [
+  "s15_opal_sunOrb_decal",
+  27
+ ],
+ "2651572": [
+  "s15_opal_sunOrb_decal",
+  57
+ ],
+ "2651596": [
+  "mnt_stor364_TPY_emissive",
+  44
+ ],
+ "2651603": [
+  "s15_opal_sunOrb_cast_gather",
+  27
+ ],
+ "2651604": [
+  "s15_opal_sunOrb_cast_flakes",
+  27
+ ],
+ "2651616": [
+  "s15_opal_sunOrb_cast_gatherDark",
+  27
+ ],
+ "2651617": [
+  "s15_opal_sunOrb_cast_glow",
+  27
+ ],
+ "2651618": [
+  "s15_opal_sunOrb_cast_glow",
+  57
  ],
  "2651622": [
   "Bundle_BPArmor_S2_bar_stor192",
@@ -3447727,6 +3448919,14 @@
   "StoreProduct_Bundle_BPWeapons_S2_bronze",
   42
  ],
+ "2651686": [
+  "s15_opal_sunOrb_cast_glowOuter",
+  57
+ ],
+ "2651687": [
+  "s15_opal_sunOrb_cast_glowOuter",
+  27
+ ],
  "2651691": [
   "Bundle_BPMount_S2_horse_stor024",
   110
@@ -3447742,6 +3448942,74 @@
  "2651694": [
   "StoreProduct_Bundle_BPMount_S2_horse_stor025",
   42
+ ],
+ "2651728": [
+  "Play_MON_S15_Opal_WingFlap_Huge_Media",
+  71
+ ],
+ "2651729": [
+  "Play_MON_S15_Opal_WingFlap_Media",
+  71
+ ],
+ "2651730": [
+  "Play_MON_S15_Opal_WingFlap_Huge",
+  40
+ ],
+ "2651731": [
+  "Play_MON_S15_Opal_WingFlap",
+  40
+ ],
+ "2651735": [
+  "S15_Opal_Skill_BeamAttk",
+  14
+ ],
+ "2651736": [
+  "Soundgroup_S15_Opal_Death",
+  14
+ ],
+ "2651737": [
+  "SoundGroup_S15_Opal_Death_Outro",
+  14
+ ],
+ "2651738": [
+  "s15_opal_pillar_groundGlow",
+  27
+ ],
+ "2651739": [
+  "S15_Opal_Intro",
+  14
+ ],
+ "2651740": [
+  "s15_opal_pillar_groundGlow",
+  57
+ ],
+ "2651742": [
+  "Play_MON_S15_Opal_Intro_Landing_Media",
+  71
+ ],
+ "2651743": [
+  "Play_MON_S15_Opal_Intro_Landing",
+  40
+ ],
+ "2651747": [
+  "SoundGroup_S15_Opal_StampedeDoor",
+  14
+ ],
+ "2651749": [
+  "S15_Opal_Skill_PillarRain",
+  14
+ ],
+ "2651751": [
+  "S15_Opal_Skill_SunOrb",
+  14
+ ],
+ "2651767": [
+  "s15_opal_sunOrb_pillar_splitStreaks",
+  27
+ ],
+ "2651768": [
+  "s15_opal_sunOrb_pillar_streaks",
+  57
  ],
  "2651820": [
   "warM_stor161_HLM_spiritVFX",
@@ -3447779,9 +3449047,77 @@
   "Journey_S14_X2_HoradricCube_Amalgamation_BossMats",
   99
  ],
+ "2652142": [
+  "s15_opal_sunOrb_pillar_deflect",
+  9
+ ],
+ "2652143": [
+  "s15_opal_sunOrb_pillar_deflect_ds",
+  57
+ ],
+ "2652144": [
+  "s15_opal_sunOrb_pillar_deflect",
+  1
+ ],
+ "2652178": [
+  "s15_opal_sunOrb_pillarDeflection",
+  27
+ ],
+ "2652205": [
+  "S15_Opal_Boss_basic_slam_SunPhase_attk",
+  29
+ ],
+ "2652207": [
+  "S15_Opal_Boss_basic_beam_SunPhase_attk",
+  29
+ ],
+ "2652209": [
+  "Actor_S15_Opal_harmony_melee",
+  42
+ ],
+ "2652210": [
+  "S15_Opal_harmony_melee",
+  1
+ ],
  "2652236": [
   "WorldTier_IsWorldTier_Torment_10orGreater",
   51
+ ],
+ "2652250": [
+  "Play_MON_S15_Opal_CowHorror_Loop_Media",
+  71
+ ],
+ "2652251": [
+  "Stop_MON_S15_Opal_CowHorror_Loop",
+  40
+ ],
+ "2652253": [
+  "Play_MON_S15_Opal_CowHorror_Loop",
+  40
+ ],
+ "2652267": [
+  "s15_opal_sunOrb_pillar_blur",
+  57
+ ],
+ "2652283": [
+  "s15_opal_pillar_SunnySide",
+  57
+ ],
+ "2652284": [
+  "s15_opal_pillar_SunnySide",
+  27
+ ],
+ "2652303": [
+  "s15_opal_beamSun_addSpawn",
+  14
+ ],
+ "2652304": [
+  "s15_opal_beamSun_spawn_wings",
+  57
+ ],
+ "2652305": [
+  "s15_opal_beamSun_spawn_wings",
+  27
  ],
  "2652539": [
   "Helm_Cosmetic_Paladin_202_stor",
@@ -3448279,6 +3449615,10 @@
   "cmp_base000_quillrat_ui_loading_screen",
   6
  ],
+ "2655103": [
+  "2DInventory_Bundle_mnt_stor364_trophy",
+  44
+ ],
  "2655210": [
   "cmp_base000_quillrat_idle_audio",
   14
@@ -3448351,6 +3449691,22 @@
   "Play_UI_Wardrobe_Place_2HAxe",
   40
  ],
+ "2655335": [
+  "s15_opal_sunOrb_safeShadow",
+  27
+ ],
+ "2655336": [
+  "s15_opal_wunOrb_safeShadow",
+  57
+ ],
+ "2655399": [
+  "s15_opal_pillar_sunnyGlow",
+  57
+ ],
+ "2655400": [
+  "s15_opal_pillar_sunnyGlow",
+  27
+ ],
  "2655434": [
   "S14_Rupture_NMD_RuptureSMPMarkerLoc",
   1
@@ -3448363,9 +3449719,37 @@
   "StoreProduct_Bundle_China_XPBoost_90day",
   42
  ],
+ "2655512": [
+  "s15_opal_sunOrb_safeClutterCut",
+  27
+ ],
+ "2655513": [
+  "s15_opal_sunOrb_safeClutterCut",
+  57
+ ],
  "2655535": [
   "S14_Rupture_NMD_RuptureSpawnLocProxyMarker",
   1
+ ],
+ "2655876": [
+  "s15_opal_passive_halo",
+  9
+ ],
+ "2655877": [
+  "s15_opal_passive_halo_mat_ds",
+  57
+ ],
+ "2655878": [
+  "s15_opal_passive_halo",
+  1
+ ],
+ "2655880": [
+  "s15_opal_passive_haloBase",
+  27
+ ],
+ "2655939": [
+  "s15_opal_passive_halo_glow",
+  23
  ],
  "2655954": [
   "Ghost_Brute_reac_stagger",
@@ -3448374,6 +3449758,10 @@
  "2655958": [
   "Ghost_Brute_TWR_Boss_stagger",
   29
+ ],
+ "2655972": [
+  "s15_opal_passive_haloCore",
+  14
  ],
  "2655974": [
   "merfolk_ranged_TWR_miniboss_stagger",
@@ -3448403,6 +3449791,42 @@
   "UberMephisto_Intro_Short_P2",
   29
  ],
+ "2656546": [
+  "Play_MON_S15_Opal_Stomp_Impact_Media",
+  71
+ ],
+ "2656547": [
+  "Play_MON_S15_Opal_Stomp_Impact",
+  40
+ ],
+ "2656568": [
+  "Play_MON_S15_Opal_Basic_Slam_Warning_Loop_Media",
+  71
+ ],
+ "2656569": [
+  "Play_MON_S15_Opal_Basic_Slam_Warning_Loop",
+  40
+ ],
+ "2656573": [
+  "Stop_MON_S15_Opal_Basic_Slam_Warning_Loop",
+  40
+ ],
+ "2656590": [
+  "Play_MON_S15_Opal_Teleport_In_Media",
+  71
+ ],
+ "2656591": [
+  "Play_MON_S15_Opal_Teleport_Out_Media",
+  71
+ ],
+ "2656592": [
+  "Play_MON_S15_Opal_Teleport_In",
+  40
+ ],
+ "2656593": [
+  "Play_MON_S15_Opal_Teleport_Out",
+  40
+ ],
  "2656897": [
   "Item_Mythic_Cache",
   42
@@ -3448411,9 +3449835,145 @@
   "Mythic_Cache",
   73
  ],
+ "2656901": [
+  "Play_MON_S15_Opal_VOX_Roar_Large_Media",
+  71
+ ],
+ "2656902": [
+  "Play_MON_S15_Opal_VOX_Roar_Taunt_Media",
+  71
+ ],
+ "2656903": [
+  "Play_MON_S15_Opal_VOX_Roar_Med_Media",
+  71
+ ],
+ "2656904": [
+  "Play_MON_S15_Opal_VOX_Roar_Small_Media",
+  71
+ ],
+ "2656905": [
+  "Play_MON_S15_Opal_VOX_Breathing_Media",
+  71
+ ],
+ "2656909": [
+  "Play_MON_S15_Opal_VOX_Breath_Inhale_Media",
+  71
+ ],
+ "2656910": [
+  "Play_MON_S15_Opal_VOX_Breath_Exhale_Media",
+  71
+ ],
+ "2656911": [
+  "Play_MON_S15_Opal_VOX_Laugh_Media",
+  71
+ ],
+ "2656912": [
+  "Play_MON_S15_Opal_VOX_Roar_Intro_Media",
+  71
+ ],
+ "2656915": [
+  "Play_MON_S15_Opal_VOX_Moo_Long_Media",
+  71
+ ],
+ "2656916": [
+  "Play_MON_S15_Opal_VOX_Roar_Large",
+  40
+ ],
+ "2656917": [
+  "Play_MON_S15_Opal_VOX_Roar_Taunt",
+  40
+ ],
+ "2656918": [
+  "Play_MON_S15_Opal_VOX_Roar_Med",
+  40
+ ],
+ "2656919": [
+  "Play_MON_S15_Opal_VOX_Roar_Small",
+  40
+ ],
+ "2656920": [
+  "Play_MON_S15_Opal_VOX_Breathing",
+  40
+ ],
+ "2656921": [
+  "Play_MON_S15_Opal_VOX_Chuffs",
+  40
+ ],
+ "2656922": [
+  "Play_MON_S15_Opal_VOX_Chuffs_Mixed",
+  40
+ ],
+ "2656924": [
+  "Play_MON_S15_Opal_VOX_Breath_Inhale",
+  40
+ ],
+ "2656925": [
+  "Play_MON_S15_Opal_VOX_Breath_Exhale",
+  40
+ ],
+ "2656926": [
+  "Play_MON_S15_Opal_VOX_Laugh",
+  40
+ ],
+ "2656927": [
+  "Play_MON_S15_Opal_VOX_Roar_Intro",
+  40
+ ],
+ "2656930": [
+  "Play_MON_S15_Opal_VOX_Moo_Long",
+  40
+ ],
+ "2656942": [
+  "S15_Opal_Skill_BeamAttk_L",
+  14
+ ],
+ "2656944": [
+  "Play_MON_S15_Opal_Cowbell_Singles_MediaShared",
+  71
+ ],
+ "2656945": [
+  "Play_MON_S15_Opal_Cowbell_Singles_Lite",
+  40
+ ],
+ "2657005": [
+  "Play_MON_S15_Opal_VOX_Moo_Media",
+  71
+ ],
+ "2657006": [
+  "Play_MON_S15_Opal_VOX_Moo",
+  40
+ ],
+ "2657015": [
+  "Play_MON_S15_Opal_SunOrb_Intro_Media",
+  71
+ ],
+ "2657016": [
+  "Play_MON_S15_Opal_SunOrb_Intro",
+  40
+ ],
+ "2657017": [
+  "SoundGroup_S15_Opal_Stagger_Intro",
+  14
+ ],
+ "2657025": [
+  "SoundGroup_S15_Opal_Stagger_Outro",
+  14
+ ],
  "2657032": [
   "Play_MON_S15_Opal_FOL_Move_Med_MediaShared",
   71
+ ],
+ "2657033": [
+  "Play_MON_S15_Opal_FOL_Move_Med_01_Media",
+  71
+ ],
+ "2657035": [
+  "Play_MON_S15_Opal_FOL_Move_Med_01",
+  40
+ ],
+ "2657039": [
+  "s15_opal_landingIntro",
+  14
  ],
  "2657052": [
   "2DUI_LoadingScreen_Season14_01",
@@ -3448426,6 +3449986,58 @@
  "2657054": [
   "2DUI_LoadingScreen_Season14_03",
   44
+ ],
+ "2657056": [
+  "s15_opal_laindingIntro_shockwave",
+  27
+ ],
+ "2657057": [
+  "s15_opal_laindingIntro_shockwave",
+  57
+ ],
+ "2657058": [
+  "s15_opal_landingIntro_flashGround",
+  27
+ ],
+ "2657071": [
+  "s15_opal_landingIntro_flashGround",
+  57
+ ],
+ "2657072": [
+  "Play_MON_S15_Opal_VOX_Pain_Short_Media",
+  71
+ ],
+ "2657073": [
+  "Play_MON_S15_Opal_VOX_Pain_Short",
+  40
+ ],
+ "2657074": [
+  "s15_opal_landingIntro_crackGround",
+  27
+ ],
+ "2657075": [
+  "s15_opal_landingIntro_crackGround",
+  57
+ ],
+ "2657077": [
+  "S15_Opal_reac_stagger_loop_ForSound",
+  14
+ ],
+ "2657102": [
+  "s15_opal_landingIntro_shockwaveSmall",
+  27
+ ],
+ "2657109": [
+  "s15_opal_landingIntro_shockwaveSmall",
+  57
+ ],
+ "2657152": [
+  "s15_opal_landingIntro_light",
+  23
+ ],
+ "2657154": [
+  "Play_MON_S15_Opal_VOX_Chuffs_Loud",
+  40
  ],
  "2657285": [
   "S14_QST_Boss",
@@ -3448467,6 +3450079,102 @@
   "2DUI_AddOn_BlizzCon_26_WebImage",
   44
  ],
+ "2657387": [
+  "s15_opal_landingIntro_dirt",
+  27
+ ],
+ "2657388": [
+  "s15_opal_landingIntro_dirt",
+  57
+ ],
+ "2657389": [
+  "s15_opal_landingIntro_debris",
+  27
+ ],
+ "2657390": [
+  "s15_opal_landingIntro_debris",
+  57
+ ],
+ "2657391": [
+  "s15_opal_landingIntro_upSmoke",
+  27
+ ],
+ "2657392": [
+  "s15_opal_landingIntro_upSmoke",
+  57
+ ],
+ "2657395": [
+  "s15_opal_landingIntro_glow",
+  27
+ ],
+ "2657397": [
+  "s15_opal_landingIntro_glow",
+  57
+ ],
+ "2657398": [
+  "s15_opal_landingIntro_ShockwaveSmoke",
+  27
+ ],
+ "2657399": [
+  "s15_opal_landingIntro_ShockwaveSmoke",
+  57
+ ],
+ "2657400": [
+  "s15_opal_landingIntro_distortion",
+  27
+ ],
+ "2657402": [
+  "s15_opal_landingIntro_distortion",
+  57
+ ],
+ "2657404": [
+  "s15_opal_landingIntro_darkDecal",
+  27
+ ],
+ "2657405": [
+  "s15_opal_landingIntro_darkDecal",
+  57
+ ],
+ "2657409": [
+  "s15_opal_landingOutro_centerBeam",
+  27
+ ],
+ "2657410": [
+  "s15_opal_landingOutro_centerBeam",
+  57
+ ],
+ "2657412": [
+  "S15_Opal_BeamAttack_Impact",
+  14
+ ],
+ "2657414": [
+  "S15_Opal_BeamAttack_LightningBolt",
+  14
+ ],
+ "2657417": [
+  "s15_opal_landingIntro_billboardLight",
+  27
+ ],
+ "2657418": [
+  "s15_opal_landingIntro_billboardLight",
+  57
+ ],
+ "2657419": [
+  "Play_MON_S15_Opal_BeamAttack_Impact_Media",
+  71
+ ],
+ "2657420": [
+  "Play_MON_S15_Opal_BeamAttack_Impact",
+  40
+ ],
+ "2657427": [
+  "Play_MON_S15_Opal_BeamAttack_Lightning_Media",
+  71
+ ],
+ "2657428": [
+  "Play_MON_S15_Opal_BeamAttack_Lightning",
+  40
+ ],
  "2657437": [
   "MJD_Capstone_Rank_VI",
   51
@@ -3448479,6 +3450187,234 @@
   "MJD_Capstone_Rank_VIII",
   51
  ],
+ "2657466": [
+  "s15_opal_passive_haloSurface_mat",
+  57
+ ],
+ "2657473": [
+  "s15_opal_landingIntro_flamesLinger",
+  27
+ ],
+ "2657474": [
+  "s15_opal_landingIntro_flamesLinger",
+  57
+ ],
+ "2657475": [
+  "s15_opal_landingIntro_flakes",
+  27
+ ],
+ "2657476": [
+  "s15_opal_landingIntro_flakes",
+  57
+ ],
+ "2657478": [
+  "s15_opal_landingIntro_bigBeam",
+  27
+ ],
+ "2657479": [
+  "s15_opal_landingIntro_bigBeam",
+  57
+ ],
+ "2657485": [
+  "SoundGroup_S15_Opal_Sword_Neutral",
+  14
+ ],
+ "2657507": [
+  "Play_MON_S15_Opal_Cowbell_OnSword_Media",
+  71
+ ],
+ "2657508": [
+  "Play_MON_S15_Opal_Cowbell_OnSword",
+  40
+ ],
+ "2657512": [
+  "Play_MON_S15_Opal_BeamAttack_Cast_Media",
+  71
+ ],
+ "2657513": [
+  "Play_MON_S15_Opal_BeamAttack_Cast",
+  40
+ ],
+ "2657519": [
+  "s15_opal_landingIntro_darkEnergy",
+  27
+ ],
+ "2657520": [
+  "s15_opal_landingIntro_darkEnergy",
+  57
+ ],
+ "2657521": [
+  "Play_MON_S15_Opal_Sword_Impact_Rock_Media",
+  71
+ ],
+ "2657522": [
+  "Play_MON_S15_Opal_Sword_Impact_Rock",
+  40
+ ],
+ "2657550": [
+  "warlock_opal_intro_shoutMouth_distortion",
+  27
+ ],
+ "2657551": [
+  "warlock_opal_intro_shoutMouth_distortion",
+  57
+ ],
+ "2657552": [
+  "warlock_opal_intro_shoutMouth_mouthEnergy",
+  27
+ ],
+ "2657553": [
+  "warlock_opal_intro_shoutMouth_mouthEnergy",
+  57
+ ],
+ "2657554": [
+  "Play_MON_S15_Opal_Stampede_GhostCow_Moo_Loop_Media",
+  71
+ ],
+ "2657555": [
+  "Stop_MON_S15_Opal_Stampede_GhostCow_Moo_Loop",
+  40
+ ],
+ "2657556": [
+  "Play_MON_S15_Opal_Stampede_GhostCow_Moo_Loop",
+  40
+ ],
+ "2657565": [
+  "S15_Opal_Stampede_Door_Opens",
+  6
+ ],
+ "2657568": [
+  "Play_MON_S15_Opal_Stampede_DoorAppears_Media",
+  71
+ ],
+ "2657569": [
+  "Play_MON_S15_Opal_Stampede_DoorAppears",
+  40
+ ],
+ "2657580": [
+  "s15_opal_sword_impact_groundBurst_cloud",
+  27
+ ],
+ "2657581": [
+  "s15_opal_sword_impact_groundBurst_decal",
+  27
+ ],
+ "2657587": [
+  "s15_opal_sword_impact_rubble",
+  27
+ ],
+ "2657611": [
+  "s15_opal_sword_impact_sparks",
+  27
+ ],
+ "2657829": [
+  "SoundGroup_S15_Opal_Dunk_CowHeads",
+  14
+ ],
+ "2657837": [
+  "s15_opal_death_light",
+  23
+ ],
+ "2657848": [
+  "s15_opal_death_backerChest",
+  27
+ ],
+ "2657850": [
+  "s15_opal_death_backerChest",
+  57
+ ],
+ "2657855": [
+  "Play_MON_S15_Opal_PillarRain_BuildUp_Media",
+  71
+ ],
+ "2657856": [
+  "Play_MON_S15_Opal_PillarRain_BuildUp",
+  40
+ ],
+ "2657857": [
+  "SoundGroup_S15_Opal_PillarRain_BuildUp",
+  14
+ ],
+ "2657860": [
+  "Play_MON_S15_Opal_VOX_Chuffs_MediaShared",
+  71
+ ],
+ "2657861": [
+  "Play_MON_S15_Opal_VOX_Chuffs_Mixed_Media",
+  71
+ ],
+ "2657871": [
+  "s15_opal_footSlam",
+  14
+ ],
+ "2657875": [
+  "s15_opal_slam_goldBurst",
+  57
+ ],
+ "2657876": [
+  "s15_opal_slam_goldBurst",
+  27
+ ],
+ "2657877": [
+  "s15_opal_slam_goldSlam",
+  57
+ ],
+ "2657878": [
+  "s15_opal_slam_goldSlam",
+  27
+ ],
+ "2657881": [
+  "s15_opal_stomp_flash",
+  23
+ ],
+ "2657888": [
+  "s15_opal_slam_warning_billboardWave_out",
+  57
+ ],
+ "2657889": [
+  "s15_opal_slam_warning_billboardWave_out",
+  27
+ ],
+ "2657890": [
+  "s15_opal_slam_warning",
+  14
+ ],
+ "2657899": [
+  "s15_opal_deathSplash",
+  14
+ ],
+ "2657900": [
+  "s15_opal_deathSplash_lightBurst",
+  27
+ ],
+ "2657901": [
+  "s15_opal_deathSplash_backerBeam",
+  27
+ ],
+ "2657902": [
+  "s15_opal_deathSplash_lightBurst",
+  57
+ ],
+ "2657903": [
+  "s15_opal_deathSplash_backerBeam",
+  57
+ ],
+ "2657904": [
+  "s15_opal_deathSplash_flakes",
+  27
+ ],
+ "2657905": [
+  "s15_opal_deathSplash_flakes",
+  57
+ ],
+ "2657915": [
+  "Play_MON_S15_Opal_SunOrb_Expl_Media",
+  71
+ ],
+ "2657916": [
+  "Play_MON_S15_Opal_SunOrb_Expl",
+  40
+ ],
  "2657917": [
   "Item_BossSummoning_Superior_LairKey",
   42
@@ -3448487,6 +3450423,18 @@
   "BossSummoning_Superior_LairKey",
   73
  ],
+ "2657932": [
+  "Play_MON_S15_Opal_SunOrb_Damage_Loop_Media",
+  71
+ ],
+ "2657933": [
+  "Stop_MON_S15_Opal_SunOrb_Damage_Loop",
+  40
+ ],
+ "2657934": [
+  "Play_MON_S15_Opal_SunOrb_Damage_Loop",
+  40
+ ],
  "2657935": [
   "Recipe_Recipe_Refine_Belial",
   42
@@ -3448494,6 +3450442,10 @@
  "2657936": [
   "Recipe_Refine_Belial",
   49
+ ],
+ "2657937": [
+  "s15_opal_landingIntro_dirtCenter",
+  27
  ],
  "2657938": [
   "S14_QST_Boss_ReaperBoss",
@@ -3448510,6 +3450462,14 @@
  "2657943": [
   "Quest_S14_DGN_QST_Boss",
   42
+ ],
+ "2657977": [
+  "Harmony_Boss_WingR_MAT",
+  57
+ ],
+ "2658151": [
+  "FOLY_MOUN_Trophy_Stor364",
+  79
  ],
  "2658172": [
   "Item_SR_Greater_Lair_Key_AutoOpen",
@@ -3448538,6 +3450498,18 @@
  "2658203": [
   "S14_CanCraftMythic",
   51
+ ],
+ "2658210": [
+  "s15_opal_stagger_debris",
+  27
+ ],
+ "2658212": [
+  "s15_opal_stagger_smoke",
+  27
+ ],
+ "2658213": [
+  "s15_opal_stagger_smoke",
+  57
  ],
  "2658223": [
   "Item_SR_Lair_Key_AutoOpen",
@@ -3448615,6 +3450587,10 @@
   "Play_MON_S15_Opal_SunOrb_Damage_1Shots_MediaShared",
   71
  ],
+ "2658460": [
+  "Play_MON_S15_Opal_SunOrb_Damage_1Shots",
+  40
+ ],
  "2658636": [
   "UberMephisto_Boss_P1_Death_short",
   29
@@ -3448623,6 +3450599,10 @@
   "Mephisto_Boss_P1_Death_short",
   6
  ],
+ "2658662": [
+  "Harmony_Boss_WingL_alphaColor",
+  44
+ ],
  "2658668": [
   "war_apocalypse_aoe_varB_light",
   23
@@ -3448630,6 +3450610,26 @@
  "2658679": [
   "treasuregoblin_reac_pullIn",
   6
+ ],
+ "2658705": [
+  "Play_MON_S15_Opal_VOX_Death_Media",
+  71
+ ],
+ "2658706": [
+  "Play_MON_S15_Opal_VOX_Death",
+  40
+ ],
+ "2658721": [
+  "HarmonyBoss_WingL_vertexAnimation",
+  44
+ ],
+ "2658728": [
+  "Play_MON_S15_Opal_GiantSword_Smash_Media",
+  71
+ ],
+ "2658729": [
+  "Play_MON_S15_Opal_GiantSword_Smash",
+  40
  ],
  "2658773": [
   "Warplans_HasNode_NMD_3B_and_HasConviction",
@@ -3448662,6 +3450662,22 @@
  "2659122": [
   "war_shadowDemonSwarm_maw_remote",
   27
+ ],
+ "2659757": [
+  "Play_MON_S15_Opal_Death_Sizzle_Media",
+  71
+ ],
+ "2659758": [
+  "Play_MON_S15_Opal_Death_Sizzle",
+  40
+ ],
+ "2659759": [
+  "Play_MON_S15_Opal_Death_Sizzle_Lite_Media",
+  71
+ ],
+ "2659760": [
+  "Play_MON_S15_Opal_Death_Sizzle_Lite",
+  40
  ],
  "2659883": [
   "Dummy_BlizzCon_26_Tracking_3",
@@ -3448718,6 +3450734,14 @@
  "2661718": [
   "Spawner_WorldBoss_Opal",
   1
+ ],
+ "2661719": [
+  "Quest_WE_WorldBoss_Opal",
+  42
+ ],
+ "2661720": [
+  "WE_WorldBoss_Opal",
+  31
  ],
  "2661722": [
   "WE_S15_Opal",
@@ -3448798,5 +3450822,105 @@
  "2675591": [
   "S14_DRLG_Chamber_PortalSwitch_Exit",
   1
+ ],
+ "2677114": [
+  "Item_OPAL_Amulet_Unique_Generic_100",
+  42
+ ],
+ "2677115": [
+  "OPAL_Amulet_Unique_Generic_100",
+  73
+ ],
+ "2677117": [
+  "Affix_OPAL_Amulet_Unique_Generic_100",
+  42
+ ],
+ "2677118": [
+  "OPAL_Amulet_Unique_Generic_100",
+  104
+ ],
+ "2677123": [
+  "Power_OPAL_Amulet_Unique_Generic_100",
+  42
+ ],
+ "2677124": [
+  "OPAL_Amulet_Unique_Generic_100",
+  29
+ ],
+ "2677196": [
+  "2DInventory_Amulets_S14",
+  44
+ ],
+ "2677305": [
+  "OPAL_INHERENT_Mondays",
+  104
+ ],
+ "2677877": [
+  "S15_Opal_Boss_Escape",
+  29
+ ],
+ "2677883": [
+  "S15_Opal_Boss_Escape",
+  6
+ ],
+ "2678008": [
+  "S15_Opal_Boss_EscapeTest",
+  14
+ ],
+ "2678359": [
+  "PlayerTitle_suffix_bovine",
+  42
+ ],
+ "2678360": [
+  "suffix_bovine",
+  120
+ ],
+ "2678363": [
+  "Item_Elixir_OPAL",
+  42
+ ],
+ "2678364": [
+  "Elixir_OPAL",
+  73
+ ],
+ "2678369": [
+  "Elixir_OPAL",
+  1
+ ],
+ "2678549": [
+  "Power_Elixir_Family_Cows",
+  42
+ ],
+ "2678550": [
+  "Elixir_Family_Cows",
+  29
+ ],
+ "2678638": [
+  "Achievement_OPAL_Hidden_KillBoss_TitleReward",
+  42
+ ],
+ "2678639": [
+  "OPAL_Hidden_KillBoss_TitleReward",
+  99
+ ],
+ "2678640": [
+  "Item_OPAL_Mythic_Cache",
+  42
+ ],
+ "2678641": [
+  "OPAL_Mythic_Cache",
+  73
+ ],
+ "2678643": [
+  "ItemType_OPALCache",
+  42
+ ],
+ "2678644": [
+  "OPALCache",
+  98
+ ],
+ "2679749": [
+  "Test_WorldBosses_Opal",
+  86
  ]
 }
