@@ -47,7 +47,7 @@
      "dwType": 294654905,
      "nHeightSampleDensity": 2,
      "unk_b677151": 4,
-     "unk_615a884": true,
+     "unk_615a884": 1,
      "snoBaseMaterial": {
       "__raw__": 60107,
       "__group__": 57,
@@ -319,7 +319,7 @@
           {
            "__type__": "MarkerHeightFieldIBInfo",
            "__typeHash__": 3208997398,
-           "nIndexOffset": 41994,
+           "nIndexOffset": 35094,
            "nIndexCount": 1536
           }
          ],
@@ -497,13 +497,13 @@
           {
            "__type__": "MarkerHeightFieldIBInfo",
            "__typeHash__": 3208997398,
-           "nIndexOffset": 35094,
+           "nIndexOffset": 36630,
            "nIndexCount": 2298
           },
           {
            "__type__": "MarkerHeightFieldIBInfo",
            "__typeHash__": 3208997398,
-           "nIndexOffset": 37392,
+           "nIndexOffset": 38928,
            "nIndexCount": 1530
           }
          ],
@@ -687,7 +687,7 @@
           {
            "__type__": "MarkerHeightFieldIBInfo",
            "__typeHash__": 3208997398,
-           "nIndexOffset": 38922,
+           "nIndexOffset": 40458,
            "nIndexCount": 3072
           },
           {
@@ -990,7 +990,7 @@
      "dwType": 294654905,
      "nHeightSampleDensity": 2,
      "unk_b677151": 4,
-     "unk_615a884": false,
+     "unk_615a884": 0,
      "snoBaseMaterial": {
       "__raw__": 1520306,
       "__group__": 57,
@@ -1297,13 +1297,13 @@
           {
            "__type__": "MarkerHeightFieldIBInfo",
            "__typeHash__": 3208997398,
-           "nIndexOffset": 8565,
+           "nIndexOffset": 8421,
            "nIndexCount": 1446
           },
           {
            "__type__": "MarkerHeightFieldIBInfo",
            "__typeHash__": 3208997398,
-           "nIndexOffset": 10011,
+           "nIndexOffset": 9867,
            "nIndexCount": 1248
           }
          ],
@@ -1442,7 +1442,7 @@
           {
            "__type__": "MarkerHeightFieldIBInfo",
            "__typeHash__": 3208997398,
-           "nIndexOffset": 8421,
+           "nIndexOffset": 11115,
            "nIndexCount": 144
           }
          ],

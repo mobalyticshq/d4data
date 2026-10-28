@@ -47,7 +47,7 @@
      "dwType": 294654905,
      "nHeightSampleDensity": 2,
      "unk_b677151": 4,
-     "unk_615a884": false,
+     "unk_615a884": 0,
      "snoBaseMaterial": {
       "__raw__": 60107,
       "__group__": 57,
@@ -282,13 +282,13 @@
           {
            "__type__": "MarkerHeightFieldIBInfo",
            "__typeHash__": 3208997398,
-           "nIndexOffset": 26358,
+           "nIndexOffset": 23673,
            "nIndexCount": 3000
           },
           {
            "__type__": "MarkerHeightFieldIBInfo",
            "__typeHash__": 3208997398,
-           "nIndexOffset": 36843,
+           "nIndexOffset": 26673,
            "nIndexCount": 1497
           }
          ],
@@ -475,13 +475,13 @@
           {
            "__type__": "MarkerHeightFieldIBInfo",
            "__typeHash__": 3208997398,
-           "nIndexOffset": 23673,
+           "nIndexOffset": 28170,
            "nIndexCount": 2685
           },
           {
            "__type__": "MarkerHeightFieldIBInfo",
            "__typeHash__": 3208997398,
-           "nIndexOffset": 35502,
+           "nIndexOffset": 36999,
            "nIndexCount": 1341
           }
          ],
@@ -699,13 +699,13 @@
           {
            "__type__": "MarkerHeightFieldIBInfo",
            "__typeHash__": 3208997398,
-           "nIndexOffset": 32430,
+           "nIndexOffset": 30855,
            "nIndexCount": 3072
           },
           {
            "__type__": "MarkerHeightFieldIBInfo",
            "__typeHash__": 3208997398,
-           "nIndexOffset": 39876,
+           "nIndexOffset": 38340,
            "nIndexCount": 1536
           }
          ],
@@ -908,13 +908,13 @@
           {
            "__type__": "MarkerHeightFieldIBInfo",
            "__typeHash__": 3208997398,
-           "nIndexOffset": 29358,
+           "nIndexOffset": 33927,
            "nIndexCount": 3072
           },
           {
            "__type__": "MarkerHeightFieldIBInfo",
            "__typeHash__": 3208997398,
-           "nIndexOffset": 38340,
+           "nIndexOffset": 39876,
            "nIndexCount": 1536
           }
          ],
@@ -1027,7 +1027,7 @@
      "dwType": 294654905,
      "nHeightSampleDensity": 2,
      "unk_b677151": 4,
-     "unk_615a884": false,
+     "unk_615a884": 0,
      "snoBaseMaterial": {
       "__raw__": 2092096,
       "__group__": 57,
@@ -1214,7 +1214,7 @@
           {
            "__type__": "MarkerHeightFieldIBInfo",
            "__typeHash__": 3208997398,
-           "nIndexOffset": 26649,
+           "nIndexOffset": 29721,
            "nIndexCount": 1536
           }
          ],
@@ -1347,13 +1347,13 @@
           {
            "__type__": "MarkerHeightFieldIBInfo",
            "__typeHash__": 3208997398,
-           "nIndexOffset": 28185,
+           "nIndexOffset": 26649,
            "nIndexCount": 3072
           },
           {
            "__type__": "MarkerHeightFieldIBInfo",
            "__typeHash__": 3208997398,
-           "nIndexOffset": 36900,
+           "nIndexOffset": 34155,
            "nIndexCount": 1536
           }
          ],
@@ -1631,7 +1631,7 @@
           {
            "__type__": "MarkerHeightFieldIBInfo",
            "__typeHash__": 3208997398,
-           "nIndexOffset": 34155,
+           "nIndexOffset": 35691,
            "nIndexCount": 2745
           },
           {
@@ -1750,7 +1750,7 @@
      "dwType": 294654905,
      "nHeightSampleDensity": 2,
      "unk_b677151": 4,
-     "unk_615a884": false,
+     "unk_615a884": 0,
      "snoBaseMaterial": {
       "__raw__": 2292145,
       "__group__": 57,
@@ -2076,7 +2076,7 @@
           {
            "__type__": "MarkerHeightFieldIBInfo",
            "__typeHash__": 3208997398,
-           "nIndexOffset": 26070,
+           "nIndexOffset": 23817,
            "nIndexCount": 1269
           }
          ],
@@ -2215,13 +2215,13 @@
           {
            "__type__": "MarkerHeightFieldIBInfo",
            "__typeHash__": 3208997398,
-           "nIndexOffset": 23817,
+           "nIndexOffset": 25086,
            "nIndexCount": 2253
           },
           {
            "__type__": "MarkerHeightFieldIBInfo",
            "__typeHash__": 3208997398,
-           "nIndexOffset": 27339,
+           "nIndexOffset": 29421,
            "nIndexCount": 1125
           }
          ],
@@ -2354,7 +2354,7 @@
           {
            "__type__": "MarkerHeightFieldIBInfo",
            "__typeHash__": 3208997398,
-           "nIndexOffset": 28464,
+           "nIndexOffset": 27339,
            "nIndexCount": 2082
           },
           {

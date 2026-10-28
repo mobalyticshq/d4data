@@ -1,6 +1,7 @@
 {
  "__fileName__": "base/meta/MarkerSet/FirstBorn_Skovos_EW_POI_HoldoutTunnel_01 (Terrain).mrk",
  "__snoID__": 2318466,
+ "__payloadOverride__": "base/payload/MarkerSet/FirstBorn_Skovos_NEW_01 (Terrain).mrk",
  "__type__": "MarkerSetDefinition",
  "__typeHash__": 4093179991,
  "tMarkerSet": [
@@ -47,7 +48,7 @@
      "dwType": 294654905,
      "nHeightSampleDensity": 2,
      "unk_b677151": 4,
-     "unk_615a884": true,
+     "unk_615a884": 1,
      "snoBaseMaterial": {
       "__raw__": 60107,
       "__group__": 57,
@@ -255,7 +256,7 @@
           {
            "__type__": "MarkerHeightFieldIBInfo",
            "__typeHash__": 3208997398,
-           "nIndexOffset": 816,
+           "nIndexOffset": 753,
            "nIndexCount": 369
           }
          ],
@@ -415,7 +416,7 @@
           {
            "__type__": "MarkerHeightFieldIBInfo",
            "__typeHash__": 3208997398,
-           "nIndexOffset": 1185,
+           "nIndexOffset": 1122,
            "nIndexCount": 63
           }
          ],
@@ -581,7 +582,7 @@
           {
            "__type__": "MarkerHeightFieldIBInfo",
            "__typeHash__": 3208997398,
-           "nIndexOffset": 1248,
+           "nIndexOffset": 1185,
            "nIndexCount": 195
           }
          ],
@@ -741,7 +742,7 @@
           {
            "__type__": "MarkerHeightFieldIBInfo",
            "__typeHash__": 3208997398,
-           "nIndexOffset": 753,
+           "nIndexOffset": 1380,
            "nIndexCount": 63
           }
          ],
